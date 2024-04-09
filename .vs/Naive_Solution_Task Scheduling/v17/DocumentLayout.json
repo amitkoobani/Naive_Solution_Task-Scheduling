@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amitk\\source\\repos\\Naive_Solution_Task Scheduling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E399B36D-AC36-4690-85EE-797F071E05A7}|Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.vcxproj|C:\\Users\\amitk\\source\\repos\\Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E399B36D-AC36-4690-85EE-797F071E05A7}|Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.vcxproj|solutionrelative:Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Naive_Solution_Task Scheduling.cpp",
+              "DocumentMoniker": "C:\\Users\\amitk\\source\\repos\\Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.cpp",
+              "RelativeDocumentMoniker": "Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.cpp",
+              "ToolTip": "C:\\Users\\amitk\\source\\repos\\Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.cpp",
+              "RelativeToolTip": "Naive_Solution_Task Scheduling\\Naive_Solution_Task Scheduling.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T13:09:36.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
